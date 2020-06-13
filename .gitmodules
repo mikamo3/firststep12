@@ -4,3 +4,6 @@
 [submodule "pcb/Keebio-Parts.pretty"]
 	path = pcb/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "pcb/foostan"]
+	path = pcb/foostan
+	url = https://github.com/foostan/kbd
