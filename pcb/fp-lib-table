@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name foostan)(type KiCad)(uri /home/mikamo/src/github.com/mikamo3/firststep12/pcb/foostan/kbd.pretty)(options "")(descr ""))
+  (lib (name keebio)(type KiCad)(uri /home/mikamo/src/github.com/mikamo3/firststep12/pcb/Keebio-Parts.pretty)(options "")(descr ""))
+)
