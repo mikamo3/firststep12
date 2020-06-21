@@ -1547,10 +1547,10 @@
       (net 46 "Net-(U1-Pad24)"))
   )
 
-  (gr_text "FirstStep12 v1.0\nPCB designed by kamo\n" (at 98.09 72.965) (layer F.SilkS) (tstamp 5EEF8DAB)
+  (gr_text "FirstStep12 v1.0\nPCB designed by kamo\n" (at 98.09 72.965) (layer F.Cu) (tstamp 5EEF8DAB)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "FirstStep12 v1.0\nPCB designed by kamo\n" (at 98.09 72.965) (layer B.SilkS)
+  (gr_text "FirstStep12 v1.0\nPCB designed by kamo\n" (at 98.09 72.965) (layer B.Cu)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_line (start 151.99 130.815) (end 148.49 130.815) (layer Edge.Cuts) (width 0.15) (tstamp 5EF00751))
